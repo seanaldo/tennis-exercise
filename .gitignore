@@ -1,0 +1,9 @@
+.tscache
+node_modules
+typings
+references.*
+src/*.js
+src/*.js.map
+test/*.js
+test/*.js.map
+.idea/
